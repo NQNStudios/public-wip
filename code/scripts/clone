@@ -1,0 +1,18 @@
+#! /bin/bash
+
+REPO=$1
+ORG=${2:-"NQNStudios"} # TODO make default username an environment variable
+
+cd ~/
+
+REPO_URL=""
+if [ "$ORG" = "NQNStudios" ]; then
+    REPO_URL="git@github.com:"
+else
+    REPO_URL="https://github.com/"
+fi
+
+REPO_URL="${REPO_URL}${ORG}/${REPO}.git"
+
+git clone $REPO_URL
+cd $REPO
