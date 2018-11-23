@@ -81,10 +81,24 @@ could be made available to students.]
 [TODO] what would heartitorium look like today?
     * maybe Savage Love or Modern Love
     * more woke, i.e. Would the modern version of Heartitorium put a lonely trans girl in touch with a lesbian soldier? Is there an example of a publication like that?
+    * cite saga column
+
+Readers and users of texts have as much to do with
+a text becoming an instance of a genre as writers do (NWWK 40). This is so the case with Heartitorium
+
+recognizing the intertextual nature of meaning
+making is the vital first step toward developing theoretical perspectives
+and methodological approaches for tracing the textual connections per-
+sons and collectives employ in the continual making and remaking of
+knowledge, selves, and societies. (NWWK 46). heartitorium = making and remaking of selves and societies!!
+
 
  
-**Works Cited**
+**References**
 
 
 [TODO cite the Heartitorium columns consulted]
+Bird, S., Klein, Ewan, & Loper, Edward. (2009). Natural Language Processing with Python (1st ed., Safari Books Online). Beijing; Cambridge [Mass.]: O'Reilly.
 Romero, Bree Ann, "Sinners in the City of Saints: Flappers in Salt Lake City" (2014). All Graduate Theses and Dissertations. 3573. https://digitalcommons.usu.edu/etd/3573
+[TODO cite UDN api]
+
