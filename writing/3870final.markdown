@@ -2,7 +2,7 @@
 
 [TODO APA format]
 
-**Introduction**
+## Introduction
 
 [TODO 1-2 pages]
 
@@ -83,28 +83,31 @@ While Romero gives many compelling observations on the Heartitorium and its like
 digital turn in college libraries, Quantitative analysis, corpus linguistics,
 could be made available to students.]
 
-**Research Methods**
+## Research Methods
 
 [TODO] A description of the research site.
-[TODO] 
+
 [TODO] A description of the nature and frequency of your data collection (i.e., your observations and participation).
-[TODO] 
+
 [TODO] A description of your process for data analysis.
+
 [TODO] A discussion of how your own identities, positionality, and prior knowledge of/participation in the community have informed your data collection and analysis.
+
 [TODO] A discussion of how you have addressed issues of research ethics in this study (e.g. forming ethical research relationships, protecting confidentiality, etc.)
-[TODO] 
+
 [1-2 pages]
 
-**Limitations**
+## Limitations
 
 [TODO] with the ability to zero in on topics and words, it is easier and more tempting to pursue a specific thesis and fall into confirmation bias. Possibly counteract this by concentrated search for counter-evidence as well.
 
 [TODO] if initial research is conducted from nltk without first browsing the column organically, this is an even greater threat
  
 
-**Findings**
+## Findings
 
 [4-6 pages]
+
     [TODO] present the key points you are making in support of your overarching argument, and those points should be backed up with specific evidence (e.g. direct quotes, description, images, and/or narrative) from your observations and participation in the community.
 
 
@@ -127,7 +130,7 @@ Someone asking Kaye about patriotic movie production companies! Very WSP!
 https://newspapers.lib.utah.edu/details?id=10188093
 if you could get a boy, you'd be with a soldier boy
  
-**Conclusion**
+## Conclusion
 
 [1-2 pages]
 [TODO] remind the reader of your big argument and help them understand what that argument contributes to our understanding of writing as a social practice. An effective conclusion will answer the âso what?â? question: why does your argument matter? What are the implications for the field? For society?
@@ -147,8 +150,7 @@ sons and collectives employ in the continual making and remaking of
 knowledge, selves, and societies. (NWWK 46). heartitorium = making and remaking of selves and societies!!
 
 
-Notes
----
+## Disorganized Notes
 
 * It's sad that we don't have the original hand-written reader letters. (Were they all hand-written?)
 * Ran searches for 'boy' and 'girl'-- why not cars, sports, gambling, poker, alcohol (temperance!)
@@ -164,11 +166,12 @@ Notes
  
 Salt Lake Herald-Republican | 1918-06-23 | The Heartitorium. (n.d.). Retrieved November 5, 2018, from https://newspapers.lib.utah.edu/details?id=10188093
 
-**References**
+## References
 
 
 [TODO cite the Heartitorium columns consulted]
 Bird, S., Klein, Ewan, & Loper, Edward. (2009). Natural Language Processing with Python (1st ed., Safari Books Online). Beijing; Cambridge [Mass.]: O'Reilly.
 Romero, Bree Ann, "Sinners in the City of Saints: Flappers in Salt Lake City" (2014). All Graduate Theses and Dissertations. 3573. https://digitalcommons.usu.edu/etd/3573
+
 [TODO cite UDN api]
 
