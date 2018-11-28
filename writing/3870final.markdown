@@ -91,6 +91,14 @@ could be made available to students.]
 
 [TODO] A description of your process for data analysis.
 
+Using the Natural Language ToolKit, it is trivial to produce what is known as a "concordance" of a specific word. That is, a list of occurrances of that word, given in context.
+
+Here are two examples of such concordances displayed in a command-line terminal. The first displays contexts in which the word "boy" occurs, and the second displays the same for the word "girl."
+
+![Figure 1](concordance-fig.png)
+
+![Figure 2](concordance-fig2.png)
+
 [TODO] A discussion of how your own identities, positionality, and prior knowledge of/participation in the community have informed your data collection and analysis.
 
 [TODO] A discussion of how you have addressed issues of research ethics in this study (e.g. forming ethical research relationships, protecting confidentiality, etc.)
